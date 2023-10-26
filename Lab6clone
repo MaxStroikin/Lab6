@@ -1,0 +1,8 @@
+/* Lab 5 P3: starter code to complete*/
+#include <stdio.h>
+#include <string.h>
+
+int main() {
+  printf("Hello world");
+  return 0;
+}
